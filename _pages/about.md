@@ -7,16 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+## About Me!
 
-Hi, I am **Seunghwan Shim**. 
+Hi! I’m studying **Automotive Engineering** in Hanyang University at Seoul. I am deeply interested in autonomous driving and robotics. I really love what I’m learning, so I’m planning to keep studying about my major.
 
-I am currently studying **Automotive Engineering** at **Hanyang University** in Seoul. I have a deep passion for my major and truly love diving into the details of how vehicles work and evolve. 
+I’m interested in perception, planning, and control (and even end-to-end learning). There is so much to study, but if we don’t lose our passion, we can always find our way!
 
-My primary interests lie in:
-* **Autonomous Driving** (Automotive Driving)
-* **Robotics**
 
-I am committed to continuously studying and researching these fields to contribute to the future of mobility.
+Also, I am the President of **[Miru (Mobile Intelligent Robotics Union)](https://github.com/MiRuAE)**. Our club studies autonomous driving technologies, and we also form teams to participate in competitions together. If you are interested, feel free to join us!
 
 ---
+## Experience
+
+**2024 – Present**  
+ **[Miru (Mobile Intelligent Robotics Union)](https://github.com/MiRuAE)**, Seoul, South Korea  
+*President*  
+
+**2022 – Present**  
+Hanyang University, Seoul, South Korea  
+*B.S. in Automotive Engineering*  
+
+**Dec. 2022 – Jun. 2024**  
+Republic of Korea Army, South Korea  
+*Military Service · Republic of Korea Army, 37th Infantry Division (Yeongdong)*
+
